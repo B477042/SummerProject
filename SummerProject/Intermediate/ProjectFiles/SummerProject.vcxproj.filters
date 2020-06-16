@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SummerProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{723307BA-B703-41EE-AA41-9C3677798F26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SummerProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SummerProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5236226F-7728-404A-BC4E-5F913473E225}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SummerProject">
+      <UniqueIdentifier>{193A3495-1615-48AC-AC73-2FC3A3CAB600}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SummerProject\SummerProject.Build.cs">
+      <Filter>Source\SummerProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SummerProject\SummerProject.cpp">
+      <Filter>Source\SummerProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerProject\SummerProject.h">
+      <Filter>Source\SummerProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerProject\SummerProjectGameModeBase.cpp">
+      <Filter>Source\SummerProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerProject\SummerProjectGameModeBase.h">
+      <Filter>Source\SummerProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
