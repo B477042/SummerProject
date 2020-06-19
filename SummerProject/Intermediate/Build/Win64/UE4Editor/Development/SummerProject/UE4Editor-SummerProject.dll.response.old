@@ -66,6 +66,7 @@
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
 "C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Development\UMG\UE4Editor-UMG.lib"
 /OUT:"J:\CODE\SummerProject\SummerProject\Binaries\Win64\UE4Editor-SummerProject.dll"
 /IMPLIB:"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\UE4Editor-SummerProject.suppressed.lib"
 /PDB:"J:\CODE\SummerProject\SummerProject\Binaries\Win64\UE4Editor-SummerProject.pdb"

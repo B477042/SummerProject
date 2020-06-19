@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{723307BA-B703-41EE-AA41-9C3677798F26}</UniqueIdentifier>
+      <UniqueIdentifier>{E7254BE7-8BFC-4020-9E38-AAE72BD1C174}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5236226F-7728-404A-BC4E-5F913473E225}</UniqueIdentifier>
+      <UniqueIdentifier>{A55F36DC-EB95-4FC7-985C-CDE58016B23D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SummerProject">
-      <UniqueIdentifier>{193A3495-1615-48AC-AC73-2FC3A3CAB600}</UniqueIdentifier>
+      <UniqueIdentifier>{D843278A-C954-4001-A9BE-4666307517C0}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject\SummerProject.Build.cs">
       <Filter>Source\SummerProject</Filter>

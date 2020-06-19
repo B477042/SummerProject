@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject\\SummerProject.Build.cs",
-		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject.Target.cs",
-		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProjectEditor.Target.cs"
+		"E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject\\SummerProject.Build.cs",
+		"E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject.Target.cs",
+		"E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProjectEditor.Target.cs"
 	],
 	"EngineVersion": "4.24.3"
 }
