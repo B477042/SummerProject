@@ -2,4 +2,10 @@
 
 
 #include "SummerProjectGameModeBase.h"
+#include "PlayerCharacter.h"
 
+ASummerProjectGameModeBase::ASummerProjectGameModeBase()
+{
+	DefaultPawnClass = APlayerCharacter::StaticClass();
+
+}

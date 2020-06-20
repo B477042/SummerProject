@@ -7,8 +7,16 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\MyGameInstance.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\MyPlayerController.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\MyPlayerState.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\PlayerCharacter.cpp.obj"
 "E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProject.cpp.obj"
 "E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\MyGameInstance.gen.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\MyPlayerController.gen.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\MyPlayerState.gen.cpp.obj"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\PlayerCharacter.gen.cpp.obj"
 "E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProject.init.gen.cpp.obj"
 "E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.gen.cpp.obj"
 "E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Default.rc2.res"

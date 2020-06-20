@@ -5,3 +5,9 @@ E:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatR
 E:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 E:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
 E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject\SummerProjectGameModeBase.generated.h
+e:\code\summerproject\summerproject\source\summerproject\PlayerCharacter.h
+E:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+E:\Unreal Engine\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+E:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+E:\Unreal Engine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject\PlayerCharacter.generated.h
