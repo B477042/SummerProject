@@ -31,8 +31,10 @@
 /wd4838
 /we4668
 /I .
+/I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Private
 /I J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
 /I J:\CODE\SummerProject\SummerProject\Source
+/I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
@@ -262,7 +264,7 @@
 /FI"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Yu"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"J:\CODE\SummerProject\SummerProject\Source\SummerProject\SummerProjectGameModeBase.cpp"
+"J:\CODE\SummerProject\SummerProject\Source\SummerProject\Private\SummerProjectGameModeBase.cpp"
 /FI"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h"
 /Fo"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.cpp.obj"
 /TP

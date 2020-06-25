@@ -31,8 +31,10 @@
 /wd4838
 /we4668
 /I .
+/I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Private
 /I J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
 /I J:\CODE\SummerProject\SummerProject\Source
+/I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Public
 /I Runtime
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public

@@ -5,7 +5,7 @@
 ===========================================================================*/
 
 #include "UObject/GeneratedCppIncludes.h"
-#include "SummerProject/SummerProjectGameModeBase.h"
+#include "SummerProject/Public/SummerProjectGameModeBase.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -43,7 +43,7 @@ void EmptyLinkFunctionForGeneratedCodeSummerProjectGameModeBase() {}
 		{ "Comment", "/**\n * \n */" },
 		{ "HideCategories", "Info Rendering MovementReplication Replication Actor Input Movement Collision Rendering Utilities|Transformation" },
 		{ "IncludePath", "SummerProjectGameModeBase.h" },
-		{ "ModuleRelativePath", "SummerProjectGameModeBase.h" },
+		{ "ModuleRelativePath", "Public/SummerProjectGameModeBase.h" },
 		{ "ShowCategories", "Input|MouseInput Input|TouchInput" },
 	};
 #endif
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeSummerProjectGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASummerProjectGameModeBase, 1991182901);
+	IMPLEMENT_CLASS(ASummerProjectGameModeBase, 2205153421);
 	template<> SUMMERPROJECT_API UClass* StaticClass<ASummerProjectGameModeBase>()
 	{
 		return ASummerProjectGameModeBase::StaticClass();
