@@ -13,5 +13,10 @@ UCLASS()
 class SUMMERPROJECT_API ASummerProjectGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
+<<<<<<< HEAD:SummerProject/Source/SummerProject/Public/SummerProjectGameModeBase.h
 		ASummerProjectGameModeBase();
+=======
+public:
+	ASummerProjectGameModeBase();
+>>>>>>> 8144281796f82d1984be37e176cf51062672d350:SummerProject/Source/SummerProject/SummerProjectGameModeBase.h
 };

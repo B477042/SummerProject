@@ -47,7 +47,11 @@ private: \
 public:
 
 
+<<<<<<< HEAD
 #define SummerProject_Source_SummerProject_Public_SummerProjectGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+=======
+#define SummerProject_Source_SummerProject_SummerProjectGameModeBase_h_15_ENHANCED_CONSTRUCTORS \
+>>>>>>> 8144281796f82d1984be37e176cf51062672d350
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API ASummerProjectGameModeBase(ASummerProjectGameModeBase&&); \

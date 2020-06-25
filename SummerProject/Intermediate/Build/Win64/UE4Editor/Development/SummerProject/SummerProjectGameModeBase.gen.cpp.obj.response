@@ -31,18 +31,21 @@
 /wd4838
 /we4668
 /I .
+<<<<<<< HEAD
 /I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Private
 /I J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
 /I J:\CODE\SummerProject\SummerProject\Source
 /I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Public
+=======
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
+>>>>>>> 8144281796f82d1984be37e176cf51062672d350
 /I Runtime
+/I Runtime\Engine\Classes
+/I Runtime\Engine\Public
 /I Runtime\TraceLog\Public
 /I Runtime\Core\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime\CoreUObject\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
-/I Runtime\Engine\Classes
-/I Runtime\Engine\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NetCore
 /I Runtime\Net
 /I Runtime\Net\Core\Classes
@@ -232,6 +235,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\AudioMixerCore\Public
+/I E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
+/I E:\CODE\SummerProject\SummerProject\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -255,18 +260,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "E:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject\SummerProjectGameModeBase.gen.cpp"
-/FI"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h"
-/Fo"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.gen.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject\SummerProjectGameModeBase.gen.cpp"
+/FI"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h"
+/Fo"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.gen.cpp.obj"
 /TP
 /GR-
 /W4

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{723307BA-B703-41EE-AA41-9C3677798F26}</UniqueIdentifier>
+      <UniqueIdentifier>{2A0DE5D6-F23A-44AF-BC66-5AF699FC001C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\SummerProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\SummerProject.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{5236226F-7728-404A-BC4E-5F913473E225}</UniqueIdentifier>
+      <UniqueIdentifier>{37C489BC-B893-4837-9C78-EE90642A04E1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +26,20 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SummerProject">
-      <UniqueIdentifier>{193A3495-1615-48AC-AC73-2FC3A3CAB600}</UniqueIdentifier>
+      <UniqueIdentifier>{75183C96-4F3E-4699-917F-A562A6284087}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\SummerProject\MyGameInstance.cpp">
+      <Filter>Source\SummerProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerProject\MyGameInstance.h">
+      <Filter>Source\SummerProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\SummerProject\PlayerCharacter.cpp">
+      <Filter>Source\SummerProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SummerProject\PlayerCharacter.h">
+      <Filter>Source\SummerProject</Filter>
+    </ClInclude>
     <None Include="..\..\Source\SummerProject\SummerProject.Build.cs">
       <Filter>Source\SummerProject</Filter>
     </None>
@@ -41,5 +55,21 @@
     <ClInclude Include="..\..\Source\SummerProject\SummerProjectGameModeBase.h">
       <Filter>Source\SummerProject</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\SummerProject\MyPlayerState.h">
+      <Filter>Source\SummerProject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\MyPlayerController.h">
+      <Filter>Source\SummerProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\SummerProject\MyPlayerState.cpp">
+      <Filter>Source\SummerProject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\MyPlayerController.cpp">
+      <Filter>Source\SummerProject</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
