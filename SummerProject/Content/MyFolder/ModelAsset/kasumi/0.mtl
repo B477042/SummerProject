@@ -1,0 +1,600 @@
+# Blender MTL File: 'None'
+# Material Count: 43
+
+newmtl 40_hair_ribbon_a_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.690736 0.734614 0.489620
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd hair_b_base.png
+map_Bump hair_b_nrm.png
+map_Ks hair_b_spec.png
+map_d hair_b_base.png
+
+newmtl 40_head_eyeballs_0.8_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.552551 0.778701 0.544895
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_eyeball_base.png
+map_Bump face_eyeball_nrm.png
+map_Ks face_eyeball_spec.png
+map_d face_eyeball_base.png
+
+newmtl 40_head_face_a_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.676949 0.422460 0.792079
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_b_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.681848 0.432625 0.564415
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_c_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.603325 0.534471 0.434363
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_d_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.564758 0.668806 0.674242
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_e_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.788953 0.766645 0.571976
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_f_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.587933 0.489001 0.627053
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_g_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.733490 0.677009 0.570222
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_h_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.610392 0.468935 0.496484
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_i_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.499003 0.423693 0.400136
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_j_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.765115 0.498091 0.571848
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_face_k_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.473578 0.587380 0.738068
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_base_base.png
+map_Bump face_base_nrm.png
+map_Ks face_base_spec.png
+map_d face_base_base.png
+
+newmtl 40_head_teeth_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.628988 0.725973 0.614829
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd face_teeth_base.png
+map_Bump face_teeth_nrm.png
+map_Ks face_teeth_spec.png
+map_d face_teeth_base.png
+
+newmtl 40_outfit_base_a_0.2_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.770025 0.515678 0.475916
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-a_base.png
+map_Bump o-a_nrm.png
+map_Ks o-a_spec.png
+map_d o-a_base.png
+
+newmtl 40_outfit_base_b_0.2_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.706661 0.417094 0.688649
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-a_base.png
+map_Bump o-a_nrm.png
+map_Ks o-a_spec.png
+map_d o-a_base.png
+
+newmtl 40_outfit_base_c_0.4_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.432793 0.613144 0.503410
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-b_base.png
+map_Bump o-b_nrm.png
+map_Ks o-b_spec.png
+map_d o-b_base.png
+
+newmtl 40_outfit_base_d_0.4_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.554642 0.612418 0.454004
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-b_base.png
+map_Bump o-b_nrm.png
+map_Ks o-b_spec.png
+map_d o-b_base.png
+
+newmtl 40_outfit_base_e_0.2_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.413960 0.720902 0.510617
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-a_base.png
+map_Bump o-a_nrm.png
+map_Ks o-a_spec.png
+map_d o-a_base.png
+
+newmtl 40_outfit_base_f_0.4_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.718359 0.515976 0.501047
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-b_base.png
+map_Bump o-b_nrm.png
+map_Ks o-b_spec.png
+map_d o-b_base.png
+
+newmtl 40_outfit_base_g_0.5_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.575326 0.483867 0.797446
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-e_base.png
+map_Bump o-e_nrm.png
+map_Ks o-e_spec.png
+map_d o-e_base.png
+
+newmtl 40_outfit_base_h_0.5_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.731427 0.521497 0.638899
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-e_base.png
+map_Bump o-e_nrm.png
+map_Ks o-e_spec.png
+map_d o-e_base.png
+
+newmtl 40_outfit_base_i_0.5_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.754023 0.643610 0.463224
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd o-e_base.png
+map_Bump o-e_nrm.png
+map_Ks o-e_spec.png
+map_d o-e_base.png
+
+newmtl 41_hair_base_a_0.1_16_16.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.744066 0.448604 0.643854
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_b_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.509907 0.618337 0.527351
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_f_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.701094 0.792470 0.559562
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_g_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.478461 0.576288 0.561407
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_h_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.630199 0.725040 0.457023
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_i_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.723364 0.739729 0.560710
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_j_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.593775 0.730076 0.698937
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_k_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.458532 0.554756 0.514680
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_l_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.434529 0.523910 0.468526
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_m_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.417409 0.428177 0.667517
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_base_n_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.444307 0.554935 0.570442
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_a_base.png
+map_Bump hair_a_nrm.png
+map_Ks hair_a_spec.png
+map_d hair_a_base.png
+
+newmtl 41_hair_ribbon_b_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.422842 0.562573 0.666814
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_b_base.png
+map_Bump hair_b_nrm.png
+map_Ks hair_b_spec.png
+map_d hair_b_base.png
+
+newmtl 41_hair_ribbon_c_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.563834 0.633563 0.542586
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd hair_b_base.png
+map_Bump hair_b_nrm.png
+map_Ks hair_b_spec.png
+map_d hair_b_base.png
+
+newmtl 41_head_eyelashes_lower_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.469050 0.697380 0.702358
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd face_eyelasheslower_base.png
+map_Bump face_eyelasheslower_nrm.png
+map_Ks face_eyelasheslower_spec.png
+map_d face_eyelasheslower_base.png
+
+newmtl 41_head_eyelashes_upper_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.706427 0.775348 0.493766
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd face_eyelashesupper_base.png
+map_Bump face_eyelashesupper_nrm.png
+map_Ks face_eyelashesupper_spec.png
+map_d face_eyelashesupper_base.png
+
+newmtl 41_outfit_transparency_a_0.1_16_16.002
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.558068 0.400456 0.543558
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd o-c_base.png
+map_Bump o-c_nrm.png
+map_Ks o-c_spec.png
+map_d o-c_base.png
+
+newmtl 41_outfit_transparency_b_0.1_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.544464 0.666353 0.689238
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd o-d_base.png
+map_Bump o-d_nrm.png
+map_Ks o-d_spec.png
+map_d o-d_base.png
+
+newmtl 41_outfit_transparency_c_0.1_16_16.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.766231 0.780815 0.663718
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd o-d_base.png
+map_Bump o-d_nrm.png
+map_Ks o-d_spec.png
+map_d o-d_base.png
+
+newmtl 7_head_eyeshadow_left_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.425139 0.516816 0.659892
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd face_eyeshadow_base.png
+map_d face_eyeshadow_base.png
+
+newmtl 7_head_eyeshadow_right_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.675535 0.698174 0.735883
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd face_eyeshadow_base.png
+map_d face_eyeshadow_base.png

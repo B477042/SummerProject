@@ -1,0 +1,510 @@
+root ground: 0 0 0 0 0 0 1 1 1
+root hips: 0 0 0 0 0 0 1 1 1
+head neck lower: 0 0 0 0 0 0 1 1 1
+head neck upper: 0 0 0 0 0 0 1 1 1
+head face root: 0 0 0 0 0 0 1 1 1
+head adj center 01: 0 0 0 0 0 0 1 1 1
+head adj center 02: 0 0 0 0 0 0 1 1 1
+head adj center 03: 0 0 0 0 0 0 1 1 1
+head adj center 04: 0 0 0 0 0 0 1 1 1
+head adj center 05: 0 0 0 0 0 0 1 1 1
+head adj center 06: 0 0 0 0 0 0 1 1 1
+head adj center 11: 0 0 0 0 0 0 1 1 1
+head adj center 12: 0 0 0 0 0 0 1 1 1
+head adj center 14: 0 0 0 0 0 0 1 1 1
+head adj center 15: 0 0 0 0 0 0 1 1 1
+head adj center 16: 0 0 0 0 0 0 1 1 1
+head adj center 17: 0 0 0 0 0 0 1 1 1
+head adj center 18: 0 0 0 0 0 0 1 1 1
+head adj center 19: 0 0 0 0 0 0 1 1 1
+head adj center 20: 0 0 0 0 0 0 1 1 1
+head jaw: 0 0 0 0 0 0 1 1 1
+head adj center 22: 0 0 0 0 0 0 1 1 1
+head adj center 23: 0 0 0 0 0 0 1 1 1
+head adj center 24: 0 0 0 0 0 0 1 1 1
+head adj center 25: 0 0 0 0 0 0 1 1 1
+head adj center 26: 0 0 0 0 0 0 1 1 1
+head adj center 27: 0 0 0 0 0 0 1 1 1
+head tongue a: 0 0 0 0 0 0 1 1 1
+head tongue b: 0 0 0 0 0 0 1 1 1
+head tongue c: 0 0 0 0 0 0 1 1 1
+head adj left 22a: 0 0 0 0 0 0 1 1 1
+head adj left 22b: 0 0 0 0 0 0 1 1 1
+head adj left 22c: 0 0 0 0 0 0 1 1 1
+head adj left 23a: 0 0 0 0 0 0 1 1 1
+head adj left 23b: 0 0 0 0 0 0 1 1 1
+head adj left 23c: 0 0 0 0 0 0 1 1 1
+head adj left 24a: 0 0 0 0 0 0 1 1 1
+head adj left 24b: 0 0 0 0 0 0 1 1 1
+head adj left 24c: 0 0 0 0 0 0 1 1 1
+head adj left 25a: 0 0 0 0 0 0 1 1 1
+head adj left 25b: 0 0 0 0 0 0 1 1 1
+head adj left 25c: 0 0 0 0 0 0 1 1 1
+head adj left 26a: 0 0 0 0 0 0 1 1 1
+head adj left 26b: 0 0 0 0 0 0 1 1 1
+head adj left 26c: 0 0 0 0 0 0 1 1 1
+head adj left 26d: 0 0 0 0 0 0 1 1 1
+head adj left 26e: 0 0 0 0 0 0 1 1 1
+head adj left 26f: 0 0 0 0 0 0 1 1 1
+head adj left 26g: 0 0 0 0 0 0 1 1 1
+head adj left 27a: 0 0 0 0 0 0 1 1 1
+head adj left 27b: 0 0 0 0 0 0 1 1 1
+head adj left 27c: 0 0 0 0 0 0 1 1 1
+head adj left 27d: 0 0 0 0 0 0 1 1 1
+head adj left 27e: 0 0 0 0 0 0 1 1 1
+head adj left 27f: 0 0 0 0 0 0 1 1 1
+head adj right 22a: 0 0 0 0 0 0 1 1 1
+head adj right 22b: 0 0 0 0 0 0 1 1 1
+head adj right 22c: 0 0 0 0 0 0 1 1 1
+head adj right 23a: 0 0 0 0 0 0 1 1 1
+head adj right 23b: 0 0 0 0 0 0 1 1 1
+head adj right 23c: 0 0 0 0 0 0 1 1 1
+head adj right 24a: 0 0 0 0 0 0 1 1 1
+head adj right 24b: 0 0 0 0 0 0 1 1 1
+head adj right 24c: 0 0 0 0 0 0 1 1 1
+head adj right 25a: 0 0 0 0 0 0 1 1 1
+head adj right 25b: 0 0 0 0 0 0 1 1 1
+head adj right 25c: 0 0 0 0 0 0 1 1 1
+head adj right 26a: 0 0 0 0 0 0 1 1 1
+head adj right 26b: 0 0 0 0 0 0 1 1 1
+head adj right 26c: 0 0 0 0 0 0 1 1 1
+head adj right 26d: 0 0 0 0 0 0 1 1 1
+head adj right 26e: 0 0 0 0 0 0 1 1 1
+head adj right 26f: 0 0 0 0 0 0 1 1 1
+head adj right 26g: 0 0 0 0 0 0 1 1 1
+head adj right 27a: 0 0 0 0 0 0 1 1 1
+head adj right 27b: 0 0 0 0 0 0 1 1 1
+head adj right 27c: 0 0 0 0 0 0 1 1 1
+head adj right 27d: 0 0 0 0 0 0 1 1 1
+head adj right 27e: 0 0 0 0 0 0 1 1 1
+head adj right 27f: 0 0 0 0 0 0 1 1 1
+head adj center 28: 0 0 0 0 0 0 1 1 1
+head adj left 01a: 0 0 0 0 0 0 1 1 1
+head adj left 01b: 0 0 0 0 0 0 1 1 1
+head adj left 01c: 0 0 0 0 0 0 1 1 1
+head adj left 01d: 0 0 0 0 0 0 1 1 1
+head adj left 01e: 0 0 0 0 0 0 1 1 1
+head adj left 01f: 0 0 0 0 0 0 1 1 1
+head adj left 01g: 0 0 0 0 0 0 1 1 1
+head adj left 01h: 0 0 0 0 0 0 1 1 1
+head adj left 02a: 0 0 0 0 0 0 1 1 1
+head adj left 02b: 0 0 0 0 0 0 1 1 1
+head adj left 02c: 0 0 0 0 0 0 1 1 1
+head adj left 02d: 0 0 0 0 0 0 1 1 1
+head adj left 02e: 0 0 0 0 0 0 1 1 1
+head adj left 02f: 0 0 0 0 0 0 1 1 1
+head adj left 02g: 0 0 0 0 0 0 1 1 1
+head adj left 02h: 0 0 0 0 0 0 1 1 1
+head adj left 03a: 0 0 0 0 0 0 1 1 1
+head adj left 03b: 0 0 0 0 0 0 1 1 1
+head adj left 03c: 0 0 0 0 0 0 1 1 1
+head adj left 03d: 0 0 0 0 0 0 1 1 1
+head adj left 03e: 0 0 0 0 0 0 1 1 1
+head adj left 03f: 0 0 0 0 0 0 1 1 1
+head adj left 03g: 0 0 0 0 0 0 1 1 1
+head adj left 03h: 0 0 0 0 0 0 1 1 1
+head adj left 04a: 0 0 0 0 0 0 1 1 1
+head adj left 04b: 0 0 0 0 0 0 1 1 1
+head adj left 04c: 0 0 0 0 0 0 1 1 1
+head adj left 04d: 0 0 0 0 0 0 1 1 1
+head adj left 04e: 0 0 0 0 0 0 1 1 1
+head adj left 04f: 0 0 0 0 0 0 1 1 1
+head adj left 04g: 0 0 0 0 0 0 1 1 1
+head adj left 04h: 0 0 0 0 0 0 1 1 1
+head adj left 05a: 0 0 0 0 0 0 1 1 1
+head adj left 05b: 0 0 0 0 0 0 1 1 1
+head adj left 05c: 0 0 0 0 0 0 1 1 1
+head adj left 05d: 0 0 0 0 0 0 1 1 1
+head adj left 05e: 0 0 0 0 0 0 1 1 1
+head adj left 05f: 0 0 0 0 0 0 1 1 1
+head adj left 05g: 0 0 0 0 0 0 1 1 1
+head adj left 05h: 0 0 0 0 0 0 1 1 1
+head adj left 06a: 0 0 0 0 0 0 1 1 1
+head adj left 06b: 0 0 0 0 0 0 1 1 1
+head adj left 06c: 0 0 0 0 0 0 1 1 1
+head adj left 06d: 0 0 0 0 0 0 1 1 1
+head adj left 06e: 0 0 0 0 0 0 1 1 1
+head adj left 06f: 0 0 0 0 0 0 1 1 1
+head adj left 06g: 0 0 0 0 0 0 1 1 1
+head adj left 06h: 0 0 0 0 0 0 1 1 1
+head adj left 06i: 0 0 0 0 0 0 1 1 1
+head adj left 07a: 0 0 0 0 0 0 1 1 1
+head eyelid upper left a: 0 0 0 0 0 0 1 1 1
+head eyelid upper left b: 0 0 0 0 0 0 1 1 1
+head eyelid upper left c: 0 0 0 0 0 0 1 1 1
+head adj left 08b: 0 0 0 0 0 0 1 1 1
+head eyelid upper left d: 0 0 0 0 0 0 1 1 1
+head eyelid upper left e: 0 0 0 0 0 0 1 1 1
+head eyelid upper left f: 0 0 0 0 0 0 1 1 1
+head eyeball left: 0 0 0 0 0 0 1 1 1
+head eyeshadow left: 0 0 0 0 0 0 1 1 1
+head eyelid lower left a: 0 0 0 0 0 0 1 1 1
+head eyelid lower left b: 0 0 0 0 0 0 1 1 1
+head eyelid lower left c: 0 0 0 0 0 0 1 1 1
+head eyelid lower left d: 0 0 0 0 0 0 1 1 1
+head adj left 10a: 0 0 0 0 0 0 1 1 1
+head adj left 10b: 0 0 0 0 0 0 1 1 1
+head adj left 10c: 0 0 0 0 0 0 1 1 1
+head adj left 10d: 0 0 0 0 0 0 1 1 1
+head adj left 10e: 0 0 0 0 0 0 1 1 1
+head adj left 11a: 0 0 0 0 0 0 1 1 1
+head adj left 11b: 0 0 0 0 0 0 1 1 1
+head adj left 11c: 0 0 0 0 0 0 1 1 1
+head adj left 11d: 0 0 0 0 0 0 1 1 1
+head adj left 11e: 0 0 0 0 0 0 1 1 1
+head adj left 11f: 0 0 0 0 0 0 1 1 1
+head adj left 11g: 0 0 0 0 0 0 1 1 1
+head adj left 12a: 0 0 0 0 0 0 1 1 1
+head adj left 12b: 0 0 0 0 0 0 1 1 1
+head adj left 12c: 0 0 0 0 0 0 1 1 1
+head adj left 12d: 0 0 0 0 0 0 1 1 1
+head adj left 12e: 0 0 0 0 0 0 1 1 1
+head adj left 12f: 0 0 0 0 0 0 1 1 1
+head adj left 12g: 0 0 0 0 0 0 1 1 1
+head adj left 12h: 0 0 0 0 0 0 1 1 1
+head adj left 13a: 0 0 0 0 0 0 1 1 1
+head adj left 13b: 0 0 0 0 0 0 1 1 1
+head adj left 13c: 0 0 0 0 0 0 1 1 1
+head adj left 13d: 0 0 0 0 0 0 1 1 1
+head adj left 14a: 0 0 0 0 0 0 1 1 1
+head adj left 14b: 0 0 0 0 0 0 1 1 1
+head adj left 14c: 0 0 0 0 0 0 1 1 1
+head adj left 14d: 0 0 0 0 0 0 1 1 1
+head adj left 14e: 0 0 0 0 0 0 1 1 1
+head adj left 14f: 0 0 0 0 0 0 1 1 1
+head adj left 14g: 0 0 0 0 0 0 1 1 1
+head adj left 14h: 0 0 0 0 0 0 1 1 1
+head adj left 14i: 0 0 0 0 0 0 1 1 1
+head adj left 14j: 0 0 0 0 0 0 1 1 1
+head adj left 15a: 0 0 0 0 0 0 1 1 1
+head adj left 15b: 0 0 0 0 0 0 1 1 1
+head adj left 15c: 0 0 0 0 0 0 1 1 1
+head adj left 15d: 0 0 0 0 0 0 1 1 1
+head adj left 15e: 0 0 0 0 0 0 1 1 1
+head adj left 15f: 0 0 0 0 0 0 1 1 1
+head adj left 15g: 0 0 0 0 0 0 1 1 1
+head adj left 16a: 0 0 0 0 0 0 1 1 1
+head adj left 16b: 0 0 0 0 0 0 1 1 1
+head adj left 16c: 0 0 0 0 0 0 1 1 1
+head adj left 16d: 0 0 0 0 0 0 1 1 1
+head adj left 16e: 0 0 0 0 0 0 1 1 1
+head adj left 16f: 0 0 0 0 0 0 1 1 1
+head adj left 17a: 0 0 0 0 0 0 1 1 1
+head adj left 17b: 0 0 0 0 0 0 1 1 1
+head adj left 17c: 0 0 0 0 0 0 1 1 1
+head adj left 17d: 0 0 0 0 0 0 1 1 1
+head adj left 18a: 0 0 0 0 0 0 1 1 1
+head adj left 18b: 0 0 0 0 0 0 1 1 1
+head adj left 18c: 0 0 0 0 0 0 1 1 1
+head adj left 19a: 0 0 0 0 0 0 1 1 1
+head adj left 19b: 0 0 0 0 0 0 1 1 1
+head adj left 19c: 0 0 0 0 0 0 1 1 1
+head adj left 20a: 0 0 0 0 0 0 1 1 1
+head adj left 20b: 0 0 0 0 0 0 1 1 1
+head adj left 20c: 0 0 0 0 0 0 1 1 1
+head adj left 20d: 0 0 0 0 0 0 1 1 1
+head adj left 20e: 0 0 0 0 0 0 1 1 1
+head adj left 20f: 0 0 0 0 0 0 1 1 1
+head adj left 20g: 0 0 0 0 0 0 1 1 1
+head adj left 20h: 0 0 0 0 0 0 1 1 1
+head adj left 20i: 0 0 0 0 0 0 1 1 1
+head adj left 20j: 0 0 0 0 0 0 1 1 1
+head adj left 20k: 0 0 0 0 0 0 1 1 1
+head adj left 20l: 0 0 0 0 0 0 1 1 1
+head adj left 20m: 0 0 0 0 0 0 1 1 1
+head adj left 28a: 0 0 0 0 0 0 1 1 1
+head adj right 01a: 0 0 0 0 0 0 1 1 1
+head adj right 01b: 0 0 0 0 0 0 1 1 1
+head adj right 01c: 0 0 0 0 0 0 1 1 1
+head adj right 01d: 0 0 0 0 0 0 1 1 1
+head adj right 01e: 0 0 0 0 0 0 1 1 1
+head adj right 01f: 0 0 0 0 0 0 1 1 1
+head adj right 01g: 0 0 0 0 0 0 1 1 1
+head adj right 01h: 0 0 0 0 0 0 1 1 1
+head adj right 02a: 0 0 0 0 0 0 1 1 1
+head adj right 02b: 0 0 0 0 0 0 1 1 1
+head adj right 02c: 0 0 0 0 0 0 1 1 1
+head adj right 02d: 0 0 0 0 0 0 1 1 1
+head adj right 02e: 0 0 0 0 0 0 1 1 1
+head adj right 02f: 0 0 0 0 0 0 1 1 1
+head adj right 02g: 0 0 0 0 0 0 1 1 1
+head adj right 02h: 0 0 0 0 0 0 1 1 1
+head adj right 03a: 0 0 0 0 0 0 1 1 1
+head adj right 03b: 0 0 0 0 0 0 1 1 1
+head adj right 03c: 0 0 0 0 0 0 1 1 1
+head adj right 03d: 0 0 0 0 0 0 1 1 1
+head adj right 03e: 0 0 0 0 0 0 1 1 1
+head adj right 03f: 0 0 0 0 0 0 1 1 1
+head adj right 03g: 0 0 0 0 0 0 1 1 1
+head adj right 03h: 0 0 0 0 0 0 1 1 1
+head adj right 04a: 0 0 0 0 0 0 1 1 1
+head adj right 04b: 0 0 0 0 0 0 1 1 1
+head adj right 04c: 0 0 0 0 0 0 1 1 1
+head adj right 04d: 0 0 0 0 0 0 1 1 1
+head adj right 04e: 0 0 0 0 0 0 1 1 1
+head adj right 04f: 0 0 0 0 0 0 1 1 1
+head adj right 04g: 0 0 0 0 0 0 1 1 1
+head adj right 04h: 0 0 0 0 0 0 1 1 1
+head adj right 05a: 0 0 0 0 0 0 1 1 1
+head adj right 05b: 0 0 0 0 0 0 1 1 1
+head adj right 05c: 0 0 0 0 0 0 1 1 1
+head adj right 05d: 0 0 0 0 0 0 1 1 1
+head adj right 05e: 0 0 0 0 0 0 1 1 1
+head adj right 05f: 0 0 0 0 0 0 1 1 1
+head adj right 05g: 0 0 0 0 0 0 1 1 1
+head adj right 05h: 0 0 0 0 0 0 1 1 1
+head adj right 06a: 0 0 0 0 0 0 1 1 1
+head adj right 06b: 0 0 0 0 0 0 1 1 1
+head adj right 06c: 0 0 0 0 0 0 1 1 1
+head adj right 06d: 0 0 0 0 0 0 1 1 1
+head adj right 06e: 0 0 0 0 0 0 1 1 1
+head adj right 06f: 0 0 0 0 0 0 1 1 1
+head adj right 06g: 0 0 0 0 0 0 1 1 1
+head adj right 06h: 0 0 0 0 0 0 1 1 1
+head adj right 06i: 0 0 0 0 0 0 1 1 1
+head eyelid upper right a: 0 0 0 0 0 0 1 1 1
+head eyelid upper right b: 0 0 0 0 0 0 1 1 1
+head eyelid upper right c: 0 0 0 0 0 0 1 1 1
+head eyelid upper right d: 0 0 0 0 0 0 1 1 1
+head adj right 08b: 0 0 0 0 0 0 1 1 1
+head eyelid upper right e: 0 0 0 0 0 0 1 1 1
+head eyelid upper right f: 0 0 0 0 0 0 1 1 1
+head eyelid upper right g: 0 0 0 0 0 0 1 1 1
+head eyeball right: 0 0 0 0 0 0 1 1 1
+head eyeshadow right: 0 0 0 0 0 0 1 1 1
+head eyelid lower right a: 0 0 0 0 0 0 1 1 1
+head eyelid lower right b: 0 0 0 0 0 0 1 1 1
+head eyelid lower right c: 0 0 0 0 0 0 1 1 1
+head eyelid lower right d: 0 0 0 0 0 0 1 1 1
+head adj right 10a: 0 0 0 0 0 0 1 1 1
+head adj right 10b: 0 0 0 0 0 0 1 1 1
+head adj right 10c: 0 0 0 0 0 0 1 1 1
+head adj right 10d: 0 0 0 0 0 0 1 1 1
+head adj right 10e: 0 0 0 0 0 0 1 1 1
+head adj right 11a: 0 0 0 0 0 0 1 1 1
+head adj right 11b: 0 0 0 0 0 0 1 1 1
+head adj right 11c: 0 0 0 0 0 0 1 1 1
+head adj right 11d: 0 0 0 0 0 0 1 1 1
+head adj right 11e: 0 0 0 0 0 0 1 1 1
+head adj right 11f: 0 0 0 0 0 0 1 1 1
+head adj right 11g: 0 0 0 0 0 0 1 1 1
+head adj right 12a: 0 0 0 0 0 0 1 1 1
+head adj right 12b: 0 0 0 0 0 0 1 1 1
+head adj right 12c: 0 0 0 0 0 0 1 1 1
+head adj right 12d: 0 0 0 0 0 0 1 1 1
+head adj right 12e: 0 0 0 0 0 0 1 1 1
+head adj right 12f: 0 0 0 0 0 0 1 1 1
+head adj right 12g: 0 0 0 0 0 0 1 1 1
+head adj right 12h: 0 0 0 0 0 0 1 1 1
+head adj right 13a: 0 0 0 0 0 0 1 1 1
+head adj right 13b: 0 0 0 0 0 0 1 1 1
+head adj right 13c: 0 0 0 0 0 0 1 1 1
+head adj right 13d: 0 0 0 0 0 0 1 1 1
+head adj right 14a: 0 0 0 0 0 0 1 1 1
+head adj right 14b: 0 0 0 0 0 0 1 1 1
+head adj right 14c: 0 0 0 0 0 0 1 1 1
+head adj right 14d: 0 0 0 0 0 0 1 1 1
+head adj right 14e: 0 0 0 0 0 0 1 1 1
+head adj right 14f: 0 0 0 0 0 0 1 1 1
+head adj right 14g: 0 0 0 0 0 0 1 1 1
+head adj right 14h: 0 0 0 0 0 0 1 1 1
+head adj right 14i: 0 0 0 0 0 0 1 1 1
+head adj right 14j: 0 0 0 0 0 0 1 1 1
+head adj right 15a: 0 0 0 0 0 0 1 1 1
+head adj right 15b: 0 0 0 0 0 0 1 1 1
+head adj right 15c: 0 0 0 0 0 0 1 1 1
+head adj right 15d: 0 0 0 0 0 0 1 1 1
+head adj right 15e: 0 0 0 0 0 0 1 1 1
+head adj right 15f: 0 0 0 0 0 0 1 1 1
+head adj right 15g: 0 0 0 0 0 0 1 1 1
+head adj right 16a: 0 0 0 0 0 0 1 1 1
+head adj right 16b: 0 0 0 0 0 0 1 1 1
+head adj right 16c: 0 0 0 0 0 0 1 1 1
+head adj right 16d: 0 0 0 0 0 0 1 1 1
+head adj right 16e: 0 0 0 0 0 0 1 1 1
+head adj right 16f: 0 0 0 0 0 0 1 1 1
+head adj right 17a: 0 0 0 0 0 0 1 1 1
+head adj right 17b: 0 0 0 0 0 0 1 1 1
+head adj right 17c: 0 0 0 0 0 0 1 1 1
+head adj right 17d: 0 0 0 0 0 0 1 1 1
+head adj right 18a: 0 0 0 0 0 0 1 1 1
+head adj right 18b: 0 0 0 0 0 0 1 1 1
+head adj right 18c: 0 0 0 0 0 0 1 1 1
+head adj right 19a: 0 0 0 0 0 0 1 1 1
+head adj right 19b: 0 0 0 0 0 0 1 1 1
+head adj right 19c: 0 0 0 0 0 0 1 1 1
+head adj right 20a: 0 0 0 0 0 0 1 1 1
+head adj right 20b: 0 0 0 0 0 0 1 1 1
+head adj right 20c: 0 0 0 0 0 0 1 1 1
+head adj right 20d: 0 0 0 0 0 0 1 1 1
+head adj right 20e: 0 0 0 0 0 0 1 1 1
+head adj right 20f: 0 0 0 0 0 0 1 1 1
+head adj right 20g: 0 0 0 0 0 0 1 1 1
+head adj right 20h: 0 0 0 0 0 0 1 1 1
+head adj right 20i: 0 0 0 0 0 0 1 1 1
+head adj right 20j: 0 0 0 0 0 0 1 1 1
+head adj right 20k: 0 0 0 0 0 0 1 1 1
+head adj right 20l: 0 0 0 0 0 0 1 1 1
+head adj right 20m: 0 0 0 0 0 0 1 1 1
+head adj right 28a: 0 0 0 0 0 0 1 1 1
+pelvis: 0 0 0 0 0 0 1 1 1
+leg left thigh: 0 0 0 0 0 0 1 1 1
+leg left knee: 0 0 0 0 0 0 1 1 1
+leg left ankle: 0 0 0 0 0 0 1 1 1
+leg left toes: 0 0 0 0 0 0 1 1 1
+leg left knee ctr: 0 0 0 0 0 0 1 1 1
+leg calf left: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr 2: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr 4: 0 0 0 0 0 0 1 1 1
+leg left knee ctr2: 0 0 0 0 0 0 1 1 1
+leg right thigh: 0 0 0 0 0 0 1 1 1
+leg right knee: 0 0 0 0 0 0 1 1 1
+leg right ankle: 0 0 0 0 0 0 1 1 1
+leg right toes: 0 0 0 0 0 0 1 1 1
+leg right knee ctr: 0 0 0 0 0 0 1 1 1
+leg calf right: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr 2: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr 4: 0 0 0 0 0 0 1 1 1
+leg right knee ctr 2: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr 1: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr 1: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr 3: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr 3: 0 0 0 0 0 0 1 1 1
+leg left thigh ctr 5: 0 0 0 0 0 0 1 1 1
+leg right thigh ctr 5: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 a: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 b: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 c: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 d: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 e: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 f: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 g: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 h: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 i: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 j: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 k: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 l: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 m: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 n: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 o: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 p: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 q: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 r: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 1 s: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 a: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 b: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 c: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 d: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 e: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 f: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 g: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 h: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 i: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 j: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 k: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 l: 0 0 0 0 0 0 1 1 1
+outfit sword ribbon 2 m: 0 0 0 0 0 0 1 1 1
+spine lower: 0 0 0 0 0 0 1 1 1
+spine upper: 0 0 0 0 0 0 1 1 1
+arm left shoulder 1: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2: 0 0 0 0 0 0 1 1 1
+arm left elbow: 0 0 0 0 0 0 1 1 1
+arm left wrist: 0 0 0 0 0 0 1 1 1
+arm left finger 1a: 0 0 0 0 0 0 1 1 1
+arm left finger 1b: 0 0 0 0 0 0 1 1 1
+arm left finger 1c: 0 0 0 0 0 0 1 1 1
+arm left finger 2a: 0 0 0 0 0 0 1 1 1
+arm left finger 2b: 0 0 0 0 0 0 1 1 1
+arm left finger 2c: 0 0 0 0 0 0 1 1 1
+arm left finger 3a: 0 0 0 0 0 0 1 1 1
+arm left finger 3b: 0 0 0 0 0 0 1 1 1
+arm left finger 3c: 0 0 0 0 0 0 1 1 1
+arm left metacarpal: 0 0 0 0 0 0 1 1 1
+arm left finger 4a: 0 0 0 0 0 0 1 1 1
+arm left finger 4b: 0 0 0 0 0 0 1 1 1
+arm left finger 4c: 0 0 0 0 0 0 1 1 1
+arm left finger 5a: 0 0 0 0 0 0 1 1 1
+arm left finger 5b: 0 0 0 0 0 0 1 1 1
+arm left finger 5c: 0 0 0 0 0 0 1 1 1
+arm left elbow ctr: 0 0 0 0 0 0 1 1 1
+arm left wrist ctr: 0 0 0 0 0 0 1 1 1
+arm left wrist ctr 2: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2 ctr: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2 ctr 2: 0 0 0 0 0 0 1 1 1
+arm left elbow ctr 2: 0 0 0 0 0 0 1 1 1
+arm right shoulder 1: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2: 0 0 0 0 0 0 1 1 1
+arm right elbow: 0 0 0 0 0 0 1 1 1
+arm right wrist: 0 0 0 0 0 0 1 1 1
+arm right finger 1a: 0 0 0 0 0 0 1 1 1
+arm right finger 1b: 0 0 0 0 0 0 1 1 1
+arm right finger 1c: 0 0 0 0 0 0 1 1 1
+arm right finger 2a: 0 0 0 0 0 0 1 1 1
+arm right finger 2b: 0 0 0 0 0 0 1 1 1
+arm right finger 2c: 0 0 0 0 0 0 1 1 1
+arm right finger 3a: 0 0 0 0 0 0 1 1 1
+arm right finger 3b: 0 0 0 0 0 0 1 1 1
+arm right finger 3c: 0 0 0 0 0 0 1 1 1
+arm right metacarpal: 0 0 0 0 0 0 1 1 1
+arm right finger 4a: 0 0 0 0 0 0 1 1 1
+arm right finger 4b: 0 0 0 0 0 0 1 1 1
+arm right finger 4c: 0 0 0 0 0 0 1 1 1
+arm right finger 5a: 0 0 0 0 0 0 1 1 1
+arm right finger 5b: 0 0 0 0 0 0 1 1 1
+arm right finger 5c: 0 0 0 0 0 0 1 1 1
+arm right elbow ctr: 0 0 0 0 0 0 1 1 1
+arm right wrist ctr: 0 0 0 0 0 0 1 1 1
+arm right wrist ctr 2: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2 ctr: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2 ctr 2: 0 0 0 0 0 0 1 1 1
+arm right elbow ctr 2: 0 0 0 0 0 0 1 1 1
+breast a: 0 0 0 0 0 0 1 1 1
+breast b: 0 0 0 0 0 0 1 1 1
+breast c: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) root ground: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) head neck lower: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) head neck upper: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front right 2 a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front right 2 b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front right 1 a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front right 1 b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front middle a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front middle b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front left 1 a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front left 1 b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front left 2 a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair front left 2 b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right c: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right d: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right e: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right f: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right g: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right h: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right i: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right j: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right k: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon right l: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left c: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left d: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left e: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left f: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left g: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left h: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left i: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left j: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left k: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ribbon left l: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail a: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail b: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail c: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail d: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail e: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail f: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail g: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail h: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail i: 0 0 0 0 0 0 1 1 1
+head neck upper attached_(Hair A - Ponytail) hair ponytail j: 0 0 0 0 0 0 1 1 1
