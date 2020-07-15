@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h
 J:\CODE\SummerProject\SummerProject\Source\SummerProject\Public\SummerProject.h
-=======
-E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h
-e:\code\summerproject\summerproject\source\summerproject\SummerProject.h
->>>>>>> 8144281796f82d1984be37e176cf51062672d350

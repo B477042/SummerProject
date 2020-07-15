@@ -1,7 +1,8 @@
 {
-	"BuildId": "10570792",
+	"BuildId": "13144385",
 	"Modules": 
 	{
-		"SummerProject": "UE4Editor-SummerProject.dll"
+		"SettingModule": "UE4Editor-SettingModule-0010.dll",
+		"SummerProject": "UE4Editor-SummerProject-0010.dll"
 	}
 }

@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2A0DE5D6-F23A-44AF-BC66-5AF699FC001C}</UniqueIdentifier>
+      <UniqueIdentifier>{3E4B0E4D-081D-4982-9286-E0B300D55C03}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\SummerProject.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{37C489BC-B893-4837-9C78-EE90642A04E1}</UniqueIdentifier>
+      <UniqueIdentifier>{21D0B76B-8CAD-47B3-B68F-D6BF94C674A9}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -25,51 +25,81 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
-    <Filter Include="Source\SummerProject">
-      <UniqueIdentifier>{75183C96-4F3E-4699-917F-A562A6284087}</UniqueIdentifier>
+    <Filter Include="Source\SettingModule">
+      <UniqueIdentifier>{9DC1D731-7DC4-42CA-B970-459BFE51A7CB}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\SummerProject\MyGameInstance.cpp">
-      <Filter>Source\SummerProject</Filter>
+    <None Include="..\..\Source\SettingModule\SettingModule.Build.cs">
+      <Filter>Source\SettingModule</Filter>
+    </None>
+    <Filter Include="Source\SettingModule\Private">
+      <UniqueIdentifier>{362BC19C-0C31-4BB0-B39B-A75B7C773A69}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SettingModule\Private\Logging.cpp">
+      <Filter>Source\SettingModule\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SummerProject\MyGameInstance.h">
-      <Filter>Source\SummerProject</Filter>
+    <ClInclude Include="..\..\Source\SettingModule\Private\Logging.h">
+      <Filter>Source\SettingModule\Private</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\SummerProject\PlayerCharacter.cpp">
-      <Filter>Source\SummerProject</Filter>
+    <ClCompile Include="..\..\Source\SettingModule\Private\SettingModule.cpp">
+      <Filter>Source\SettingModule\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SummerProject\PlayerCharacter.h">
-      <Filter>Source\SummerProject</Filter>
+    <Filter Include="Source\SettingModule\Public">
+      <UniqueIdentifier>{B3C118AB-7DDD-4EB7-8299-FEBF11A6CAAA}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SettingModule\Public\SettingModule.h">
+      <Filter>Source\SettingModule\Public</Filter>
     </ClInclude>
+    <Filter Include="Source\SummerProject">
+      <UniqueIdentifier>{09F3F62C-1F76-4208-8DC5-0929B4E0F1EC}</UniqueIdentifier>
+    </Filter>
     <None Include="..\..\Source\SummerProject\SummerProject.Build.cs">
       <Filter>Source\SummerProject</Filter>
     </None>
-    <ClCompile Include="..\..\Source\SummerProject\SummerProject.cpp">
-      <Filter>Source\SummerProject</Filter>
+    <Filter Include="Source\SummerProject\Private">
+      <UniqueIdentifier>{C2D8BAA2-3123-4306-B83E-612B791A1EC8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameMode.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\SummerProject\SummerProject.h">
-      <Filter>Source\SummerProject</Filter>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionPlayerCharacter.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionPlayerController.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\Private\SummerProject.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\Private\SummerProjectGameModeBase.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\SummerProject\Public">
+      <UniqueIdentifier>{A5EF9E42-E5BE-4AAD-B62B-04C35711D1FB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameMode.h">
+      <Filter>Source\SummerProject\Public</Filter>
     </ClInclude>
-    <ClCompile Include="..\..\Source\SummerProject\SummerProjectGameModeBase.cpp">
-      <Filter>Source\SummerProject</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SummerProject\SummerProjectGameModeBase.h">
-      <Filter>Source\SummerProject</Filter>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionPlayerCharacter.h">
+      <Filter>Source\SummerProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionPlayerController.h">
+      <Filter>Source\SummerProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\Public\SummerProject.h">
+      <Filter>Source\SummerProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\Public\SummerProjectGameModeBase.h">
+      <Filter>Source\SummerProject\Public</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Source\SummerProject\MyPlayerState.h">
-      <Filter>Source\SummerProject</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Source\SummerProject\MyPlayerController.h">
-      <Filter>Source\SummerProject</Filter>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameState.h">
+      <Filter>Source\SummerProject\Public</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Source\SummerProject\MyPlayerState.cpp">
-      <Filter>Source\SummerProject</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\SummerProject\MyPlayerController.cpp">
-      <Filter>Source\SummerProject</Filter>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameState.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

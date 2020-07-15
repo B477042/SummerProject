@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SummerProject",
-			"Path": "E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject.Target.cs",
+			"Path": "J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SummerProjectEditor",
-			"Path": "E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProjectEditor.Target.cs",
+			"Path": "J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

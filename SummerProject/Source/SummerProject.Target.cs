@@ -9,6 +9,6 @@ public class SummerProjectTarget : TargetRules
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "SummerProject" } );
+		ExtraModuleNames.AddRange( new string[] { "SummerProject","SettingModule" } );
 	}
 }

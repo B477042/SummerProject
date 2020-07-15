@@ -9,6 +9,6 @@ public class SummerProjectEditorTarget : TargetRules
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "SummerProject" } );
+		ExtraModuleNames.AddRange( new string[] { "SummerProject","SettingModule" } );
 	}
 }

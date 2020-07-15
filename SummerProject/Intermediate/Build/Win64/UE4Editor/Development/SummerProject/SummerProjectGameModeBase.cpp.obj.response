@@ -28,17 +28,12 @@
 /we4458
 /we4459
 /wd4463
-/wd4838
 /we4668
+/wd4244
+/wd4838
 /I .
-<<<<<<< HEAD
 /I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Private
-/I J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
-/I J:\CODE\SummerProject\SummerProject\Source
-/I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Public
-=======
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Engine
->>>>>>> 8144281796f82d1984be37e176cf51062672d350
 /I Runtime
 /I Runtime\Engine\Classes
 /I Runtime\Engine\Public
@@ -65,6 +60,9 @@
 /I Runtime\Messaging\Public
 /I Runtime\MessagingCommon\Public
 /I Runtime\RenderCore\Public
+/I Runtime\Analytics
+/I Runtime\Analytics\AnalyticsET\Public
+/I Runtime\Analytics\Analytics\Public
 /I Runtime\Sockets\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry
 /I Runtime\AssetRegistry\Public
@@ -105,13 +103,15 @@
 /I Runtime\Experimental\FieldSystem\Source
 /I Runtime\Experimental\FieldSystem\Source\FieldSystemCore\Public
 /I Runtime\SignalProcessing\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions
+/I Runtime\AudioExtensions\Public
+/I Runtime\AudioMixerCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd
 /I Editor
 /I Programs\UnrealLightmass\Public
 /I Developer\Android\AndroidDeviceDetection\Public\Interfaces
 /I Editor\UnrealEd\Classes
 /I Editor\UnrealEd\Public
-/I Editor\BspMode\Public
 /I Developer
 /I Developer\DirectoryWatcher\Public
 /I Editor\Documentation\Public
@@ -145,11 +145,9 @@
 /I Editor\AudioEditor\Classes
 /I Editor\AudioEditor\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer
-/I Runtime\AudioMixer\Private
 /I Runtime\AudioMixer\Classes
 /I Runtime\AudioMixer\Public
 /I Developer\TargetPlatform\Public
-/I ThirdParty\libSampleRate\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\LevelEditor
 /I Editor\LevelEditor\Public
 /I Developer\Settings\Public
@@ -178,6 +176,7 @@
 /I Editor\StructViewer\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser
 /I Editor\ContentBrowser\Public
+/I ThirdParty\libSampleRate\Public
 /I Runtime\NetworkFileSystem\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\UMG
 /I Runtime\UMG\Public
@@ -193,8 +192,6 @@
 /I Runtime\PropertyPath\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem
 /I Runtime\NavigationSystem\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescriptionOperations
-/I Developer\MeshDescriptionOperations\Public
 /I Developer\MeshBuilder\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\MaterialShaderQualitySettings
 /I Runtime\MaterialShaderQualitySettings\Classes
@@ -234,9 +231,9 @@
 /I Runtime\Experimental\GeometryCollectionSimulationCore\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I Runtime\AudioMixerCore\Public
-/I E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
-/I E:\CODE\SummerProject\SummerProject\Source
+/I J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Inc\SummerProject
+/I J:\CODE\SummerProject\SummerProject\Source
+/I J:\CODE\SummerProject\SummerProject\Source\SummerProject\Public
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -260,9 +257,8 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "E:\Visual Studio\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-<<<<<<< HEAD
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
@@ -273,18 +269,6 @@
 "J:\CODE\SummerProject\SummerProject\Source\SummerProject\Private\SummerProjectGameModeBase.cpp"
 /FI"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h"
 /Fo"J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.cpp.obj"
-=======
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"E:\CODE\SummerProject\SummerProject\Source\SummerProject\SummerProjectGameModeBase.cpp"
-/FI"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\Definitions.SummerProject.h"
-/Fo"E:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\SummerProjectGameModeBase.cpp.obj"
->>>>>>> 8144281796f82d1984be37e176cf51062672d350
 /TP
 /GR-
 /W4

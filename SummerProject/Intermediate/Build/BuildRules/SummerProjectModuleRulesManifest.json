@@ -1,8 +1,9 @@
 {
 	"SourceFiles": [
-		"E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject\\SummerProject.Build.cs",
-		"E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject.Target.cs",
-		"E:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProjectEditor.Target.cs"
+		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SettingModule\\SettingModule.Build.cs",
+		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject\\SummerProject.Build.cs",
+		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProject.Target.cs",
+		"J:\\CODE\\SummerProject\\SummerProject\\Source\\SummerProjectEditor.Target.cs"
 	],
-	"EngineVersion": "4.24.3"
+	"EngineVersion": "4.25.1"
 }

@@ -1,4 +1,4 @@
-// Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+// Copyright Epic Games, Inc. All Rights Reserved.
 /*===========================================================================
 	Generated code exported from UnrealHeaderTool.
 	DO NOT modify this manually! Edit the corresponding .h files instead!
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeSummerProjectGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ASummerProjectGameModeBase, 2205153421);
+	IMPLEMENT_CLASS(ASummerProjectGameModeBase, 2320549204);
 	template<> SUMMERPROJECT_API UClass* StaticClass<ASummerProjectGameModeBase>()
 	{
 		return ASummerProjectGameModeBase::StaticClass();
