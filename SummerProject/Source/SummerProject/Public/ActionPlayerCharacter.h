@@ -5,7 +5,12 @@
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
 #include "GameFramework/SpringArmComponent.h"
+#include "Components/CapsuleComponent.h"
+
+#include "GameFramework/CharacterMovementComponent.h"
+//#include""
 #include "Camera/CameraComponent.h"
+#include "ActionPlayerAnimInstance.h"
 #include "ActionPlayerCharacter.generated.h"
 
 
@@ -34,6 +39,17 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 	virtual void PostInitializeComponents()override;
+
+private:
+	void Turn(float NewAxisValue);
+	void LookUp(float NewAxisValue);
+	//Move Left or Right 
+	void MoveLeft(float NewAxisValue);
+	//Move Forward or Backward
+	void MoveForward(float NewAxisValue);
+
+	void setMoveDirection(float DeltaTime);
+	void setupSpringarm();
 private:
 	void initializeAssets();
 	
@@ -41,6 +57,7 @@ private:
 		UCameraComponent* Camera;
 	UPROPERTY(VisibleAnywhere, Category = "Camera", meta = (AllowPrivateAccess = "true"))
 		USpringArmComponent* SpringArm;
-
+	UPROPERTY(VisibleAnywhere, Category = "Speed")
+		FVector MoveDirection;
 
 };

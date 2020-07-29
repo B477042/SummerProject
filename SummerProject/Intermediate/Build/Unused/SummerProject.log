@@ -1,21 +1,4 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (J:\CODE\SummerProject).
-  Parsing headers for SummerProjectEditor
-    Running UnrealHeaderTool "J:\CODE\SummerProject\SummerProject\SummerProject.uproject" "J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\SummerProjectEditor\Development\SummerProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\eett9\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
-  Reflection code generated for SummerProjectEditor in 7.0919503 seconds
-  Building SummerProjectEditor...
-  Using Visual Studio 2017 14.16.27035 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.17763.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 8 actions with 12 processes...
-    [1/8] UE4Editor-SettingModule-0010.lib
-       J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SettingModule\UE4Editor-SettingModule-0010.lib 라이브러리 및 J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SettingModule\UE4Editor-SettingModule-0010.exp 개체를 생성하고 있습니다.
-    [2/8] SummerProject.init.gen.cpp
-    [3/8] ActionGameMode.gen.cpp
-    [4/8] UE4Editor-SettingModule-0010.dll
-       J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SettingModule\UE4Editor-SettingModule-0010.suppressed.lib 라이브러리 및 J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SettingModule\UE4Editor-SettingModule-0010.suppressed.exp 개체를 생성하고 있습니다.
-    [5/8] ActionGameMode.cpp
-    [6/8] UE4Editor-SummerProject-0010.lib
-       J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\UE4Editor-SummerProject-0010.lib 라이브러리 및 J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\UE4Editor-SummerProject-0010.exp 개체를 생성하고 있습니다.
-    [7/8] UE4Editor-SummerProject-0010.dll
-       J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\UE4Editor-SummerProject-0010.suppressed.lib 라이브러리 및 J:\CODE\SummerProject\SummerProject\Intermediate\Build\Win64\UE4Editor\Development\SummerProject\UE4Editor-SummerProject-0010.suppressed.exp 개체를 생성하고 있습니다.
-    [8/8] SummerProjectEditor.target
-  Total time in Parallel executor: 3.12 seconds
-  Total execution time: 11.34 seconds
+  Creating makefile for SummerProjectEditor (Build.version is newer)
+UnrealBuildTool : error : Expecting to find a type to be declared in a module rules named 'LogViewer' in UE4Rules, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.  This type must derive from the 'ModuleRules' type defined by Unreal Build Tool.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3073: ""C:\Program Files\Epic Games\UE_4.25\Engine\Build\BatchFiles\Build.bat" SummerProjectEditor Win64 Development -Project="J:\CODE\SummerProject\SummerProject\SummerProject.uproject" -WaitMutex -FromMsBuild" 명령이 종료되었습니다(코드: 6).

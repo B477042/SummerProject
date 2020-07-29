@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{3E4B0E4D-081D-4982-9286-E0B300D55C03}</UniqueIdentifier>
+      <UniqueIdentifier>{151A450B-C2C1-4529-AE1D-4A63510001C8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\SummerProject.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{21D0B76B-8CAD-47B3-B68F-D6BF94C674A9}</UniqueIdentifier>
+      <UniqueIdentifier>{C2F31237-44DF-46E5-B45F-7267296DF3EF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -25,14 +25,17 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\SettingModule">
-      <UniqueIdentifier>{9DC1D731-7DC4-42CA-B970-459BFE51A7CB}</UniqueIdentifier>
+      <UniqueIdentifier>{3FE636CB-4BEB-4853-8496-04F57B36277D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SettingModule\SettingModule.Build.cs">
       <Filter>Source\SettingModule</Filter>
     </None>
     <Filter Include="Source\SettingModule\Private">
-      <UniqueIdentifier>{362BC19C-0C31-4BB0-B39B-A75B7C773A69}</UniqueIdentifier>
+      <UniqueIdentifier>{F6335096-AB68-4267-92D6-87F394EE54C4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SettingModule\Private\Logging.cpp">
       <Filter>Source\SettingModule\Private</Filter>
@@ -44,21 +47,30 @@
       <Filter>Source\SettingModule\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SettingModule\Public">
-      <UniqueIdentifier>{B3C118AB-7DDD-4EB7-8299-FEBF11A6CAAA}</UniqueIdentifier>
+      <UniqueIdentifier>{E25F29A3-4F1B-4DD7-AE34-D879D018A7BD}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SettingModule\Public\SettingModule.h">
       <Filter>Source\SettingModule\Public</Filter>
     </ClInclude>
     <Filter Include="Source\SummerProject">
-      <UniqueIdentifier>{09F3F62C-1F76-4208-8DC5-0929B4E0F1EC}</UniqueIdentifier>
+      <UniqueIdentifier>{41986D8D-8798-40F4-BBE5-F860089F3B7F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject\SummerProject.Build.cs">
       <Filter>Source\SummerProject</Filter>
     </None>
     <Filter Include="Source\SummerProject\Private">
-      <UniqueIdentifier>{C2D8BAA2-3123-4306-B83E-612B791A1EC8}</UniqueIdentifier>
+      <UniqueIdentifier>{48D9084C-5AD3-4EB1-8AC0-8D70476B31A2}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameMode.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameSave.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameState.cpp">
+      <Filter>Source\SummerProject\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SummerProject\Private\ActionPlayerAnimInstance.cpp">
       <Filter>Source\SummerProject\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\SummerProject\Private\ActionPlayerCharacter.cpp">
@@ -74,9 +86,18 @@
       <Filter>Source\SummerProject\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SummerProject\Public">
-      <UniqueIdentifier>{A5EF9E42-E5BE-4AAD-B62B-04C35711D1FB}</UniqueIdentifier>
+      <UniqueIdentifier>{2EC7873C-CA75-4308-BDE6-F90E280D879A}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameMode.h">
+      <Filter>Source\SummerProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameSave.h">
+      <Filter>Source\SummerProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameState.h">
+      <Filter>Source\SummerProject\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SummerProject\Public\ActionPlayerAnimInstance.h">
       <Filter>Source\SummerProject\Public</Filter>
     </ClInclude>
     <ClInclude Include="..\..\Source\SummerProject\Public\ActionPlayerCharacter.h">
@@ -91,15 +112,5 @@
     <ClInclude Include="..\..\Source\SummerProject\Public\SummerProjectGameModeBase.h">
       <Filter>Source\SummerProject\Public</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameState.h">
-      <Filter>Source\SummerProject\Public</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameState.cpp">
-      <Filter>Source\SummerProject\Private</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
