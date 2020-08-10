@@ -13,5 +13,6 @@ UCLASS()
 class SUMMERPROJECT_API UActionGameSave : public USaveGame
 {
 	GENERATED_BODY()
-	
+public:
+	UActionGameSave();
 };

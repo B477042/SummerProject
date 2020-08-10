@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SummerProject.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{151A450B-C2C1-4529-AE1D-4A63510001C8}</UniqueIdentifier>
+      <UniqueIdentifier>{39494F07-7EAD-4C33-9D71-F12AC47E7EA3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject.Target.cs">
       <Filter>Source</Filter>
@@ -14,7 +14,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\SummerProject.code-workspace" />
     <Filter Include="Config">
-      <UniqueIdentifier>{C2F31237-44DF-46E5-B45F-7267296DF3EF}</UniqueIdentifier>
+      <UniqueIdentifier>{58845224-52D6-47FF-8D0F-F93C35D02354}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -29,13 +29,13 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SettingModule">
-      <UniqueIdentifier>{3FE636CB-4BEB-4853-8496-04F57B36277D}</UniqueIdentifier>
+      <UniqueIdentifier>{451170C3-6E83-489F-8DFB-24890E23AF86}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SettingModule\SettingModule.Build.cs">
       <Filter>Source\SettingModule</Filter>
     </None>
     <Filter Include="Source\SettingModule\Private">
-      <UniqueIdentifier>{F6335096-AB68-4267-92D6-87F394EE54C4}</UniqueIdentifier>
+      <UniqueIdentifier>{76C2F5D7-C911-495B-92F0-C36665EA1263}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SettingModule\Private\Logging.cpp">
       <Filter>Source\SettingModule\Private</Filter>
@@ -47,19 +47,19 @@
       <Filter>Source\SettingModule\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SettingModule\Public">
-      <UniqueIdentifier>{E25F29A3-4F1B-4DD7-AE34-D879D018A7BD}</UniqueIdentifier>
+      <UniqueIdentifier>{E9F11E3E-4259-4FCD-8CC0-1C88682E25E8}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SettingModule\Public\SettingModule.h">
       <Filter>Source\SettingModule\Public</Filter>
     </ClInclude>
     <Filter Include="Source\SummerProject">
-      <UniqueIdentifier>{41986D8D-8798-40F4-BBE5-F860089F3B7F}</UniqueIdentifier>
+      <UniqueIdentifier>{361EE8E7-48EB-4091-835D-1B3A99EDBF4C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SummerProject\SummerProject.Build.cs">
       <Filter>Source\SummerProject</Filter>
     </None>
     <Filter Include="Source\SummerProject\Private">
-      <UniqueIdentifier>{48D9084C-5AD3-4EB1-8AC0-8D70476B31A2}</UniqueIdentifier>
+      <UniqueIdentifier>{53AD792C-7CA9-4D81-9142-E45234144C96}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SummerProject\Private\ActionGameMode.cpp">
       <Filter>Source\SummerProject\Private</Filter>
@@ -86,7 +86,7 @@
       <Filter>Source\SummerProject\Private</Filter>
     </ClCompile>
     <Filter Include="Source\SummerProject\Public">
-      <UniqueIdentifier>{2EC7873C-CA75-4308-BDE6-F90E280D879A}</UniqueIdentifier>
+      <UniqueIdentifier>{B081E283-13F7-4BDE-ACB1-43EE5F6BA5F1}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SummerProject\Public\ActionGameMode.h">
       <Filter>Source\SummerProject\Public</Filter>
